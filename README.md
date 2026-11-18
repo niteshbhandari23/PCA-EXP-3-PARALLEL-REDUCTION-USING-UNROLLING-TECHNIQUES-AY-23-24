@@ -382,4 +382,4 @@ int main(int argc, char **argv)
 
 
 ## RESULT:
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that 0.000328 has executed with less elapsed time than 0.048633 with blocks 4096,512.
+Thus, the program has been executed by unrolling by 8 and unrolling by 16. It is observed that **unrolling by 16** has executed with less elapsed time (**0.000328 sec**) than **unrolling by 8 (0.000459 sec)** with grid blocks **2048 and 4096**, respectively.
